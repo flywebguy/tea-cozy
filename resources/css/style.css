@@ -67,9 +67,10 @@ nav span {
 
 /* Tea Section */
 
-.tea {
+#tea {
   width: 1000px;
   padding-top: 70px;
+  padding-bottom: 70px;
   margin: auto;
 }
 
